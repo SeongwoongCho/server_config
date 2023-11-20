@@ -1,0 +1,84 @@
+Host kaist2
+  HostName 143.248.140.19
+  User seongwoongjo
+  Port 7890
+
+Host kaist3
+  HostName 143.248.140.190
+  User seongwoongjo
+  Port 7890
+
+Host kaist4
+  HostName 143.248.140.174
+  User seongwoongjo
+  Port 7890
+
+Host kaist5
+  HostName 143.248.133.65
+  User seongwoongjo
+  Port 7890
+
+Host kaist6
+  HostName 143.248.140.125
+  User seongwoongjo
+  Port 7890
+
+Host kaist7
+  HostName 143.248.140.73
+  User seongwoongjo
+  Port 7890
+
+Host kaist8
+  HostName 143.248.140.75
+  User seongwoongjo
+  Port 7890
+
+Host kaist9
+  HostName 143.248.140.81
+  User seongwoongjo
+  Port 7890
+
+Host kaist10
+  HostName 143.248.140.24
+  User seongwoongjo
+  Port 7890
+
+Host kaist11
+  HostName 143.248.140.25
+  User seongwoongjo
+  Port 7890
+
+Host kaist12
+  HostName 143.248.140.27
+  User seongwoongjo
+  Port 7890
+
+Host kaist13
+  HostName 143.248.188.87
+  User seongwoongjo
+  Port 7890
+
+Host kaist14
+  HostName 143.248.188.2
+  User seongwoongjo
+  Port 7890
+
+Host kaist15
+  HostName 143.248.188.66
+  User seongwoongjo
+  Port 7890
+
+Host kaist16
+  HostName 143.248.188.64
+  User seongwoongjo
+  Port 7890
+
+Host kaist17
+  HostName 143.248.188.181
+  User seongwoongjo
+  Port 7890
+
+Host kaist18
+  HostName 143.248.188.182
+  User seongwoongjo
+  Port 7890
